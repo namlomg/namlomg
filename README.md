@@ -14,7 +14,7 @@
 
 ## 🚀 Về Tôi
 
-Tôi là một Lập Trình Viên Full Stack đam mê, luôn yêu thích việc tạo ra những ứng dụng web sáng tạo và giải quyết các vấn đề phức tạp. Với kinh nghiệm trong các công nghệ web hiện đại, tôi thích xây dựng những ứng dụng có khả năng mở rộng và thân thiện với người dùng từ frontend đến backend.
+Tôi là một Lập Trình Viên Full Stack đam mê, luôn yêu thích việc tạo ra những ứng dụng web sáng tạo và giải quyết các vấSn đề phức tạp. Với kinh nghiệm trong các công nghệ web hiện đại, tôi thích xây dựng những ứng dụng có khả năng mở rộng và thân thiện với người dùng từ frontend đến backend.
 
 - 🔭 Hiện tại tôi đang làm việc với **Ứng dụng Web Full Stack**
 - 🌱 Tôi đang học **React Advanced Patterns & Cloud Technologies**
@@ -57,20 +57,20 @@ Tôi là một Lập Trình Viên Full Stack đam mê, luôn yêu thích việc 
 ## 📊 Thống Kê GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namlong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats của Nam Long" />
+  <img src="https://github-readme-stats.vercel.app/api?username=namlomg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats của Nam Long" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namlong&theme=tokyonight&hide_border=true" alt="GitHub Streak của Nam Long" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namlomg&theme=tokyonight&hide_border=true" alt="GitHub Streak của Nam Long" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namlong&layout=compact&theme=tokyonight&hide_border=true" alt="Ngôn Ngữ Sử Dụng Nhiều Nhất" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namlomg&layout=compact&theme=tokyonight&hide_border=true" alt="Ngôn Ngữ Sử Dụng Nhiều Nhất" />
 </div>
 
 ## 🏆 Thành Tích GitHub
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namlong&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=namlomg&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 
@@ -78,7 +78,7 @@ Tôi là một Lập Trình Viên Full Stack đam mê, luôn yêu thích việc 
 
 ## 📈 Biểu Đồ Hoạt Động
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namlong&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namlomg&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🤝 Kết Nối Với Tôi
@@ -87,7 +87,7 @@ Tôi là một Lập Trình Viên Full Stack đam mê, luôn yêu thích việc 
   <a href="mailto:vunamlong3522@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/namlong">
+  <a href="https://github.com/namlomg">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -96,7 +96,7 @@ Tôi là một Lập Trình Viên Full Stack đam mê, luôn yêu thích việc 
 
 ## Lượt Xem Profile
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=namlong&label=Lượt%20xem%20profile&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=namlomg&color=brightgreen&style=flag&label=Lượt%20xem%20profile&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
