@@ -57,12 +57,13 @@ Tôi là một Lập Trình Viên Full Stack đam mê, luôn yêu thích việc 
 ## 📊 Thống Kê GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namlomg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats của Nam Long" />
+  <img src="https://github-readme-stats.vercel.app/api?username=namlong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats của Nam Long" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namlomg&theme=tokyonight&hide_border=true" alt="GitHub Streak của Nam Long" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namlong&theme=tokyonight&hide_border=true" alt="GitHub Streak của Nam Long" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namlomg&layout=compact&theme=tokyonight&hide_border=true" alt="Ngôn Ngữ Sử Dụng Nhiều Nhất" />
